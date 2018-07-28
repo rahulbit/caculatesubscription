@@ -1,0 +1,16 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "simple subscription function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rahul",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "moment": "^2.22.2",
+    "readline-sync": "^1.4.9"
+  }
+}
